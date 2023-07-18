@@ -13,7 +13,7 @@ import Footer from "@/components/Footer.vue";
     <Header></Header>
     <main>
         <Hero></Hero>
-        <Feature></Feature>
+<!--        <Feature></Feature>-->
 
         <Pricing></Pricing>
         <Promo></Promo>
